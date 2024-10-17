@@ -1,0 +1,55 @@
+Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+Imported /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb, with 4 footprints, 9 tracks, and 1 drawings.
+Imported /Users/quillansmith/Documents/KiCad/8BitLedIndicator/8BitLedIndicator.kicad_pcb, with 33 footprints, 72 tracks, and 8 drawings.
+Root (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/8BitLedIndicator.kicad_pcb)
+├─ LedIndicator2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator7 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator6 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator4 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+├─ LedIndicator5 (+ PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb)
+PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb
+  /4546dbcb: R1
+  /de3c3848: R2
+  /2c92f6a1: D1
+  /7ef6607b: Q1
+PCB /Users/quillansmith/Documents/KiCad/8BitLedIndicator/8BitLedIndicator.kicad_pcb
+  /9c3fa465/4546dbcb: R9
+  /f6aecefe/2c92f6a1: D6
+  /9658996c/7ef6607b: Q2
+  /f6aecefe/de3c3848: R12
+  /362b73e3/4546dbcb: R7
+  /b44e5e8c/7ef6607b: Q1
+  /f6aecefe/4546dbcb: R11
+  /9658996c/4546dbcb: R3
+  /8964610f/de3c3848: R14
+  /b44e5e8c/4546dbcb: R1
+  /2fd6b956/4546dbcb: R15
+  /9c3fa465/de3c3848: R10
+  /48d1ae45: R17
+  /23c70c2b/4546dbcb: R5
+  /9658996c/de3c3848: R4
+  /8964610f/7ef6607b: Q7
+  /9658996c/2c92f6a1: D2
+  /9c3fa465/7ef6607b: Q5
+  /362b73e3/7ef6607b: Q4
+  /9c3fa465/2c92f6a1: D5
+  /8964610f/2c92f6a1: D7
+  /8964610f/4546dbcb: R13
+  /f6aecefe/7ef6607b: Q6
+  /23c70c2b/de3c3848: R6
+  /23c70c2b/7ef6607b: Q3
+  /2fd6b956/de3c3848: R16
+  /b44e5e8c/de3c3848: R2
+  /b44e5e8c/2c92f6a1: D1
+  /2fd6b956/2c92f6a1: D8
+  /362b73e3/de3c3848: R8
+  /362b73e3/2c92f6a1: D4
+  /23c70c2b/2c92f6a1: D3
+  /2fd6b956/7ef6607b: Q8
+Selected for 0 : /Users/quillansmith/Documents/KiCad/8BitLedIndicator/../LedIndicator/LedIndicator.kicad_pcb
+Anchors  (Q1): ['D1', 'Q1', 'R1', 'R2']
+Saved.

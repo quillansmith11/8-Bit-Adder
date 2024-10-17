@@ -1,0 +1,48 @@
+{
+  "subpcb": {
+    "../XorGate/XorGate.kicad_pcb": {
+      "anchor": "Q1"
+    },
+    "../LedIndicator/LedIndicator.kicad_pcb": {
+      "anchor": "Q1"
+    },
+    "../OrGate/OrGate.kicad_pcb": {
+      "anchor": "Q1"
+    },
+    "../AndGate/AndGate.kicad_pcb": {
+      "anchor": "Q1"
+    },
+    "Adder.kicad_pcb": {
+      "anchor": "Q1"
+    }
+  },
+  "sheet": {
+    "": {
+      "checked": false
+    },
+    "/3e285999-97b6-4462-a50b-402a811da9f3": {
+      "checked": true
+    },
+    "/43118dbb-8c0a-4eb1-8ea3-76a909101511": {
+      "checked": true
+    },
+    "/5fb2648c-5498-4995-8fee-4f348004b496": {
+      "checked": false
+    },
+    "/6762572c-6eb5-4750-a2c4-0e1a4ca6b40e": {
+      "checked": false
+    },
+    "/91a87fbd-d1a1-4696-8069-c778c8ddd427": {
+      "checked": false
+    },
+    "/b72b3e2b-a285-440a-a87e-f9be3151ce9a": {
+      "checked": false
+    },
+    "/bbf36b14-d548-4f08-bd4a-2e8ed8912c6d": {
+      "checked": false
+    },
+    "/bd5e17e3-c181-4844-b91b-0c13e682fa98": {
+      "checked": false
+    }
+  }
+}

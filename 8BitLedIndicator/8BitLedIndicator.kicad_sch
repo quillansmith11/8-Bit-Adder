@@ -1,0 +1,860 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d2052856-148d-4d95-8b70-bca486fb81b1")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Device:R"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 125.73 59.69) (xy 137.16 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11ec3872-f538-4149-9777-e69a536634da")
+	)
+	(wire
+		(pts
+			(xy 125.73 68.58) (xy 137.16 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29829b1f-a033-4050-87a0-25c47b722e37")
+	)
+	(wire
+		(pts
+			(xy 125.73 113.03) (xy 137.16 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ad1df50-a1eb-4aa9-ac7b-2f185289f43f")
+	)
+	(wire
+		(pts
+			(xy 125.73 95.25) (xy 137.16 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3efac95d-6c5f-46a7-96d2-39b4fdd535cb")
+	)
+	(wire
+		(pts
+			(xy 125.73 104.14) (xy 137.16 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44fb7c81-a69f-4b5d-bf9a-8280dcd05ce3")
+	)
+	(wire
+		(pts
+			(xy 125.73 77.47) (xy 137.16 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99c20fc3-2cb7-4142-b9a1-929680bff3d0")
+	)
+	(wire
+		(pts
+			(xy 125.73 86.36) (xy 137.16 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba5472c1-6bd4-45c6-859b-61b8018147bd")
+	)
+	(wire
+		(pts
+			(xy 125.73 121.92) (xy 137.16 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1c2eaf8-18c6-4898-833d-d4ed395de51c")
+	)
+	(hierarchical_label "LED6"
+		(shape input)
+		(at 125.73 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0443a193-09ec-47dc-9eb8-e6efd18267f2")
+	)
+	(hierarchical_label "LED4"
+		(shape input)
+		(at 125.73 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1a2d26d6-d0a4-429f-b457-8496f814e743")
+	)
+	(hierarchical_label "LED2"
+		(shape input)
+		(at 125.73 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7143894f-8a0e-4436-989e-f9478547453c")
+	)
+	(hierarchical_label "LED5"
+		(shape input)
+		(at 125.73 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4b1b67d-9947-47d4-8fd3-f9a3df6b06f6")
+	)
+	(hierarchical_label "LED0"
+		(shape input)
+		(at 125.73 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b5fd2b09-8f4e-4d35-a230-085ef23659ab")
+	)
+	(hierarchical_label "LED1"
+		(shape input)
+		(at 125.73 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c0a0880a-dc75-4bf4-85f2-8352c3f52537")
+	)
+	(hierarchical_label "LED3"
+		(shape input)
+		(at 125.73 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c20925d0-35a9-47a9-b1c3-72a358087989")
+	)
+	(hierarchical_label "LED7"
+		(shape input)
+		(at 125.73 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c35d28fc-0567-4cdc-b1d8-e7ab3e1bb8e8")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 142.24 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48d1ae45-adc0-4298-9797-3470d964fa73")
+		(property "Reference" "R38"
+			(at 142.24 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 142.24 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 142.24 50.038 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 142.24 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d25e13b1-81e4-476d-aa66-a69b9e9288fc")
+		)
+		(pin "2"
+			(uuid "d2876327-eac9-450a-b281-c809b090d941")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(reference "R38")
+					(unit 1)
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(reference "R4")
+					(unit 1)
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+			(project ""
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 76.2)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23c70c2b-adc7-41b7-ba1e-63f0fe014b7a")
+		(property "Sheetname" "LedIndicator2"
+			(at 137.16 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3bcf6d3d-dbc8-40d3-9675-426ba5f2c384")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "11")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "5")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "33")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 120.65)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2fd6b956-52b7-45cf-9993-71daddbd1c7b")
+		(property "Sheetname" "LedIndicator7"
+			(at 137.16 119.9384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "93e78a73-2f50-4f7b-8c9e-dbc130d87de4")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "16")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "20")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "38")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 85.09)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "362b73e3-0875-43f5-900e-d6ff6bc4a6b8")
+		(property "Sheetname" "LedIndicator3"
+			(at 137.16 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 86.36 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4a5c941c-44a8-4233-9209-a85198589fb2")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "12")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "7")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "34")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 111.76)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8964610f-179c-4258-ac4a-20f5524414f1")
+		(property "Sheetname" "LedIndicator6"
+			(at 137.16 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4a3bdce9-d2e9-46c5-b960-3ee765f9925c")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "15")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "21")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "39")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 67.31)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9658996c-37df-4fcc-84f4-0edb5f83d933")
+		(property "Sheetname" "LedIndicator1"
+			(at 137.16 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 68.58 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2dab9ea3-bff7-4fb8-8a3a-bfcd786b8fef")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "10")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "17")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "35")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 93.98)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9c3fa465-8fb6-4aee-a786-8e309b461565")
+		(property "Sheetname" "LedIndicator4"
+			(at 137.16 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2f3d6c0d-3a72-48be-ac22-e6c18400eefb")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "13")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "18")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "36")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 58.42)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b44e5e8c-db6c-45b0-bfd4-f44bc35c895f")
+		(property "Sheetname" "LedIndicator"
+			(at 137.16 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 59.69 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2f02cbf9-2684-4219-9fd2-c2df923fa8ac")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "6")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "19")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "37")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 102.87)
+		(size 12.7 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6aecefe-dc3b-45ad-a1bf-50b99652eee1")
+		(property "Sheetname" "LedIndicator5"
+			(at 137.16 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../LedIndicator/LedIndicator.kicad_sch"
+			(at 137.16 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 137.16 104.14 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "64bf5ea0-b1f3-4e5b-b210-7af5630409c2")
+		)
+		(instances
+			(project "C00000001"
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/8e63c257-6e08-4d5e-b60d-785dba48e842"
+					(page "14")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/7d3d5bf7-4ce6-493d-8494-00f6fc9fe6bc"
+					(page "22")
+				)
+				(path "/37108b8a-cf82-4481-90d7-d366e2da95ad/0047197a-95a4-40fe-a5c4-eff7e16bafec"
+					(page "40")
+				)
+			)
+			(project "8BitLedIndicator"
+				(path "/d2052856-148d-4d95-8b70-bca486fb81b1"
+					(page "7")
+				)
+			)
+		)
+	)
+)

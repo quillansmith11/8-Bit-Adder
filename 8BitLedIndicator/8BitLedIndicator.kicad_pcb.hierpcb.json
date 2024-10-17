@@ -1,0 +1,39 @@
+{
+  "subpcb": {
+    "../LedIndicator/LedIndicator.kicad_pcb": {
+      "anchor": "Q1"
+    },
+    "8BitLedIndicator.kicad_pcb": {
+      "anchor": "Q1"
+    }
+  },
+  "sheet": {
+    "": {
+      "checked": false
+    },
+    "/23c70c2b-adc7-41b7-ba1e-63f0fe014b7a": {
+      "checked": true
+    },
+    "/2fd6b956-52b7-45cf-9993-71daddbd1c7b": {
+      "checked": true
+    },
+    "/362b73e3-0875-43f5-900e-d6ff6bc4a6b8": {
+      "checked": true
+    },
+    "/8964610f-179c-4258-ac4a-20f5524414f1": {
+      "checked": true
+    },
+    "/9658996c-37df-4fcc-84f4-0edb5f83d933": {
+      "checked": true
+    },
+    "/9c3fa465-8fb6-4aee-a786-8e309b461565": {
+      "checked": true
+    },
+    "/b44e5e8c-db6c-45b0-bfd4-f44bc35c895f": {
+      "checked": true
+    },
+    "/f6aecefe-dc3b-45ad-a1bf-50b99652eee1": {
+      "checked": true
+    }
+  }
+}

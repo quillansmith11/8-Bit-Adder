@@ -1,0 +1,1463 @@
+09-22 13:28:13 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:28:13 hierpcb 20:Config file /Users/quillansmith/Documents/KiCad/Adder/Adder.kicad_pcb.hierpcb.json not found. Creating new one.
+09-22 13:28:13 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:28:13 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:28:13 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:28:13 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:28:13 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:28:13 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:28:13 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:28:28 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:28:28 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:28:30 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:28:30 hierpcb 160:Anchor 0 for /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:28:33 hierpcb 68:Saved.
+09-22 13:28:46 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:28:46 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:28:46 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:28:46 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:28:46 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:28:46 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:28:46 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:28:46 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:29:46 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:29:46 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:29:46 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:29:46 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:29:46 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:29:46 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:29:46 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:29:46 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:29:54 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:29:54 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:30:03 hierpcb 129:Selected for 1 : /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+09-22 13:30:03 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:30:08 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:30:08 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:30:26 hierpcb 68:Saved.
+09-22 13:31:15 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:31:15 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:15 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:15 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:15 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:31:15 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:31:15 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:31:15 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:31:17 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:31:17 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:31:18 hierpcb 68:Saved.
+09-22 13:31:20 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:31:20 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:20 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:21 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:21 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:31:21 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:31:21 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:31:21 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:31:24 hierpcb 129:Selected for 1 : /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+09-22 13:31:24 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:31:26 hierpcb 68:Saved.
+09-22 13:31:48 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:31:48 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:48 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:48 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:31:48 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:31:48 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:31:48 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:31:48 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:31:52 hierpcb 129:Selected for 2 : /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+09-22 13:31:52 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'Q4', 'Q5', 'Q6', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8']
+09-22 13:31:53 hierpcb 68:Saved.
+09-22 13:35:08 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:35:08 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:08 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:08 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:08 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:35:08 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:35:08 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:35:08 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:35:11 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+09-22 13:35:11 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:35:12 hierpcb 68:Saved.
+09-22 13:35:15 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:35:15 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:15 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:15 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:15 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:35:15 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:35:15 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:35:15 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:35:22 hierpcb 129:Selected for 2 : /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+09-22 13:35:22 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'Q4', 'Q5', 'Q6', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8']
+09-22 13:35:23 hierpcb 68:Saved.
+09-22 13:35:26 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:35:26 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:26 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:26 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:26 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:35:26 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:35:26 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:35:26 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:35:30 hierpcb 129:Selected for 1 : /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+09-22 13:35:30 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:35:31 hierpcb 68:Saved.
+09-22 13:35:36 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:35:36 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:36 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:36 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:35:36 hierpcb 59:
+├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb)
+├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb)
+├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb)
+09-22 13:35:36 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:35:36 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:35:36 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/Adder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:35:40 hierpcb 129:Selected for 1 : /Users/quillansmith/Documents/KiCad/Adder/../OrGate/OrGate.kicad_pcb
+09-22 13:35:40 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:35:41 hierpcb 68:Saved.
+09-22 13:40:19 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:40:19 hierpcb 20:Config file /Users/quillansmith/Documents/KiCad/8BitAdder/8BitAdder.kicad_pcb.hierpcb.json not found. Creating new one.
+09-22 13:40:19 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:40:19 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:40:19 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:40:19 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:40:19 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:40:19 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:40:19 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:40:50 hierpcb 129:Selected for 1 : /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+09-22 13:40:50 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:41:38 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:41:38 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:41:38 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:41:38 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:41:38 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:41:38 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:41:38 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:41:38 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:43:27 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:43:27 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:43:27 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:43:27 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:43:27 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:43:27 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:43:27 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:43:27 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:47:04 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:47:04 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:04 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:04 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:04 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:47:04 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:47:04 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:47:04 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:47:21 hierpcb 52:Checking /7323d64d-6c81-4207-acda-6d8ab8d44896: False.
+09-22 13:47:24 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+09-22 13:47:24 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:47:25 hierpcb 68:Saved.
+09-22 13:47:33 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:47:33 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:33 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:33 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:33 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:47:33 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:47:33 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:47:33 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:47:39 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:44 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:45 hierpcb 129:Selected for 0 : /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+09-22 13:47:45 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:47:47 hierpcb 68:Saved.
+09-22 13:47:49 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:47:49 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:49 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:49 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:49 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:47:49 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:47:49 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:47:49 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:47:50 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:51 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:52 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:54 hierpcb 129:Selected for 1 : /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+09-22 13:47:54 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'R1', 'R2', 'R3', 'R4', 'R5']
+09-22 13:47:55 hierpcb 68:Saved.
+09-22 13:47:56 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:47:56 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:56 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:56 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:47:56 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:47:56 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:47:56 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:47:56 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:47:58 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:58 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:59 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:47:59 hierpcb 129:Selected for 2 : /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+09-22 13:47:59 hierpcb 146:Anchors  (Q1): ['Q1', 'Q2', 'Q3', 'Q4', 'Q5', 'Q6', 'R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8']
+09-22 13:48:01 hierpcb 68:Saved.
+09-22 13:48:03 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:48:03 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:48:03 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:48:03 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:48:03 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:48:03 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:48:03 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:48:03 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:48:04 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:48:05 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:54:19 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 13:54:19 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 13:54:19 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:54:19 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 13:54:19 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 13:54:19 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 13:54:19 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 13:54:19 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 13:54:23 hierpcb 52:Checking /7323d64d-6c81-4207-acda-6d8ab8d44896: False.
+09-22 13:54:23 hierpcb 52:Checking /7323d64d-6c81-4207-acda-6d8ab8d44896: False.
+09-22 13:54:24 hierpcb 52:Checking /7323d64d-6c81-4207-acda-6d8ab8d44896: False.
+09-22 13:54:24 hierpcb 52:Checking /7323d64d-6c81-4207-acda-6d8ab8d44896: False.
+09-22 13:54:27 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 13:54:27 hierpcb 52:Checking /455b9544-532f-49c2-9ea5-c77cf37e520f: False.
+09-22 14:04:37 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 14:04:37 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 14:04:37 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 14:04:37 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 14:04:37 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 14:04:37 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 14:04:37 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 14:04:37 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
+09-22 14:04:47 hierpcb 49:Plugin v0.0.1 running on KiCad 8.0.5 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+09-22 14:04:47 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb, with 14 footprints, 0 tracks, and 2 drawings.
+09-22 14:04:47 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 14:04:47 hierpcb 29:Imported /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb, with 8 footprints, 0 tracks, and 2 drawings.
+09-22 14:04:47 hierpcb 59:
+├─ 455b9544
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 4d364ad9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7323d64d
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ 7beba7c8
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ a7a2bd1a
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ b37d1597
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ bf69b5f9
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+├─ f3127c67
+│  ├─ And Gate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ And Gate3 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb)
+│  ├─ Or Gate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb)
+│  ├─ XorGate2 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+│  ├─ XorGate1 (+ PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb)
+09-22 14:04:47 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../XorGate/XorGate.kicad_pcb
+  /de372515: Q2
+  /943dab95: R5
+  /3c09e2c8: R7
+  /c06780ef: Q3
+  /5e309dc6: R8
+  /6a9ae1df: R4
+  /f80dba93: Q6
+  /cd564687: Q5
+  /2ac2539a: R6
+  /0943c08c: R1
+  /17acf17c: Q1
+  /b8f8edc1: R3
+  /fc70942b: Q4
+  /3184acd8: R2
+09-22 14:04:47 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../AndGate/AndGate.kicad_pcb
+  /fc568754: Q3
+  /e4acbc1d: R1
+  /c6e7dabb: R4
+  /3c4af7c9: Q2
+  /ac1d31ce: R3
+  /9313e8c7: R5
+  /406cfb11: R2
+  /877220bf: Q1
+09-22 14:04:47 hierpcb 61:PCB /Users/quillansmith/Documents/KiCad/8BitAdder/../OrGate/OrGate.kicad_pcb
+  /8394089b: R3
+  /869c943c: Q2
+  /afc2826d: R4
+  /b87ad0e1: R5
+  /2028d869: R1
+  /5b199d2c: Q3
+  /4e84457c: Q1
+  /8dbfc47d: R2
